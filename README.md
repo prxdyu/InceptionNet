@@ -20,7 +20,7 @@ This repository contains an implementation of the InceptionNet architecture usin
        pip install torch torch
 - Import the InceptionNet model in your Python script:
 
-      from inception_net import InceptionNet
+      from InceptionNet import InceptionNet
 - Explore the provided implementation and modify it as needed for your specific tasks.
 
 
