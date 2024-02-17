@@ -17,7 +17,7 @@ This repository contains an implementation of the InceptionNet architecture usin
         git clone https://github.com/your-username/your-repository.git
 - Install the required dependencies, including PyTorch:
 
-       pip install torch torchvision
+       pip install torch torch
 - Import the InceptionNet model in your Python script:
 
       from inception_net import InceptionNet
